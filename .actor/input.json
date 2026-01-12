@@ -1,0 +1,8 @@
+{
+  "startUrls": [
+    { "url": "https://www.facebook.com/nytimes" }
+  ],
+  "maxPosts": 10,
+  "includeReactions": false,
+  "includeComments": false
+}

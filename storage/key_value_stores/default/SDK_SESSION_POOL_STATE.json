@@ -1,0 +1,71 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_gymD1sgnxV",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-01-12T07:29:42.260Z",
+      "createdAt": "2026-01-12T06:39:42.260Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_4d4WYbfwmV",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "datr",
+            "value": "MJdkabqrGW4ioJUpBUONSWes",
+            "expires": "2027-02-16T06:39:43.308Z",
+            "domain": "facebook.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-01-12T06:39:43.934Z",
+            "lastAccessed": "2026-01-12T06:39:43.934Z"
+          },
+          {
+            "key": "sb",
+            "value": "MJdkadAAFG_VuoOWNP21KbNv",
+            "expires": "2027-02-16T06:39:43.308Z",
+            "domain": "facebook.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2026-01-12T06:39:43.936Z",
+            "lastAccessed": "2026-01-12T06:39:43.936Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2026-01-12T07:29:42.262Z",
+      "createdAt": "2026-01-12T06:39:42.262Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
