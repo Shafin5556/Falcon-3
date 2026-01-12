@@ -1,9 +1,0 @@
-{
-	"id": "hdDANKtP2YCmIQO",
-	"json": "{\"id\":\"hdDANKtP2YCmIQO\",\"url\":\"https://www.facebook.com/nytimes\",\"loadedUrl\":\"https://www.facebook.com/nytimes\",\"uniqueKey\":\"https://www.facebook.com/nytimes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-01-12T06:39:51.009Z\"}",
-	"method": "GET",
-	"orderNo": null,
-	"retryCount": 0,
-	"uniqueKey": "https://www.facebook.com/nytimes",
-	"url": "https://www.facebook.com/nytimes"
-}

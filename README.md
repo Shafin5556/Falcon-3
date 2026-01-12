@@ -122,8 +122,9 @@ Facebook renders posts inside: `<div role="article">...</div>`
 ## Installation & Usage
 
 1. Install dependencies: `npm install`
-2. Run the actor: `npm start` or `apify run`
-3. Provide input as per schema above.
+2. Run the actor: `npm start https://www.facebook.com/yourpage` (URL required)
+3. Or use `apify run` with input JSON
+4. Provide input as per schema above.
 
 ## Final Recommendation
 

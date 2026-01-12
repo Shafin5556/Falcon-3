@@ -3,7 +3,7 @@
   "retiredSessionsCount": 0,
   "sessions": [
     {
-      "id": "session_gymD1sgnxV",
+      "id": "session_s4EhMXgmAE",
       "cookieJar": {
         "version": "tough-cookie@6.0.0",
         "storeType": "MemoryCookieStore",
@@ -16,14 +16,14 @@
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2026-01-12T07:29:42.260Z",
-      "createdAt": "2026-01-12T06:39:42.260Z",
+      "expiresAt": "2026-01-12T09:14:46.193Z",
+      "createdAt": "2026-01-12T08:24:46.193Z",
       "usageCount": 0,
       "maxUsageCount": 50,
       "errorScore": 0
     },
     {
-      "id": "session_4d4WYbfwmV",
+      "id": "session_hSCQewIZ03",
       "cookieJar": {
         "version": "tough-cookie@6.0.0",
         "storeType": "MemoryCookieStore",
@@ -34,35 +34,35 @@
         "cookies": [
           {
             "key": "datr",
-            "value": "MJdkabqrGW4ioJUpBUONSWes",
-            "expires": "2027-02-16T06:39:43.308Z",
+            "value": "zq9kaZMN4ppr8o50t7CDPxZx",
+            "expires": "2027-02-16T08:24:46.908Z",
             "domain": "facebook.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2026-01-12T06:39:43.934Z",
-            "lastAccessed": "2026-01-12T06:39:43.934Z"
+            "creation": "2026-01-12T08:24:47.891Z",
+            "lastAccessed": "2026-01-12T08:24:47.891Z"
           },
           {
             "key": "sb",
-            "value": "MJdkadAAFG_VuoOWNP21KbNv",
-            "expires": "2027-02-16T06:39:43.308Z",
+            "value": "zq9kaasMeXn2ezddHlIqabFN",
+            "expires": "2027-02-16T08:24:46.908Z",
             "domain": "facebook.com",
             "path": "/",
             "secure": true,
             "httpOnly": true,
             "hostOnly": false,
-            "creation": "2026-01-12T06:39:43.936Z",
-            "lastAccessed": "2026-01-12T06:39:43.936Z"
+            "creation": "2026-01-12T08:24:47.894Z",
+            "lastAccessed": "2026-01-12T08:24:47.894Z"
           }
         ]
       },
       "userData": {},
       "maxErrorScore": 3,
       "errorScoreDecrement": 0.5,
-      "expiresAt": "2026-01-12T07:29:42.262Z",
-      "createdAt": "2026-01-12T06:39:42.262Z",
+      "expiresAt": "2026-01-12T09:14:46.195Z",
+      "createdAt": "2026-01-12T08:24:46.195Z",
       "usageCount": 1,
       "maxUsageCount": 50,
       "errorScore": 0

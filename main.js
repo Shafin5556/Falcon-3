@@ -3,8 +3,15 @@ import { PlaywrightCrawler } from 'crawlee';
 
 await Actor.init();
 
+// Get URL from command line argument
+const pageUrl = process.argv[2];
+if (!pageUrl) {
+    console.error('Please provide a Facebook page URL as an argument: npm start https://www.facebook.com/yourpage');
+    process.exit(1);
+}
+
 const input = await Actor.getInput() || {
-    startUrls: [{ url: 'https://www.facebook.com/nytimes' }],
+    startUrls: [{ url: pageUrl }],
     maxPosts: 10,
     includeReactions: false,
     includeComments: false
